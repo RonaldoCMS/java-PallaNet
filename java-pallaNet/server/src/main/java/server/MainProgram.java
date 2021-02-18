@@ -1,0 +1,11 @@
+package server;
+
+import server.pallanet.PallaNetServer;
+
+public class MainProgram {
+
+	public static void main(String[] args) {
+		PallaNetServer server = new PallaNetServer();
+	}
+	
+}

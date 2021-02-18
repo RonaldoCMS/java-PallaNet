@@ -1,0 +1,61 @@
+package server.pallanet.interazioni;
+
+import java.awt.Dimension;
+import java.awt.Graphics;
+import java.awt.Image;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.JPanel;
+import javax.swing.Timer;
+
+import server.pallanet.PallaNetServer;
+
+public class PannelloAnimazione extends JPanel implements Runnable, ActionListener{
+
+	private PallaNetServer finestra;
+	private Dimension dimensioni;
+	private Image bufferVirtuale;
+	private Graphics offScreen;
+	private Timer tim;
+	private int xPallina;
+	private int yPallina;
+	private int diametroPallina;
+	private int spostamento;
+	private int timerDelay;
+	private boolean destra;
+	private boolean basso;
+	private boolean pallinaPresente;
+	private boolean arrivoComunicato;
+	
+public PannelloAnimazione(PallaNetServer finestra, Dimension dimensioni) {
+	super();
+	
+	this.finestra = finestra;
+	this.setSize(dimensioni);
+	
+	destra = true;
+	basso = true;
+	pallinaPresente = true;
+	arrivoComunicato = false;
+	
+	xPallina = 0;
+	yPallina = 0;
+	diametroPallina = 40;
+	spostamento = 3;
+	timerDelay = 10;
+
+	tim = new Timer(timerDelay, this);
+
+	
+}	
+	
+	public void run() {
+	}
+
+	public void actionPerformed(ActionEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

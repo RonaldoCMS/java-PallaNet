@@ -1,0 +1,5 @@
+package client.pallanet.interazioni;
+
+public class PannelloClient {
+
+}

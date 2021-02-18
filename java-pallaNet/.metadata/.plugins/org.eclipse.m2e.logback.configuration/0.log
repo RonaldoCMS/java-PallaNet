@@ -1,0 +1,279 @@
+2021-02-12 17:27:31,346 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-12 17:27:51,348 [Worker-13: Creating project "server"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pallanet:server:0.0.1-SNAPSHOT @ S:\dev\java-pallaNetServer\server\pom.xml.
+2021-02-12 17:27:52,266 [Worker-13: Creating project "server"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/main/java
+2021-02-12 17:27:52,268 [Worker-13: Creating project "server"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /server/src/main/resources
+2021-02-12 17:27:52,269 [Worker-13: Creating project "server"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/test/java
+2021-02-12 17:27:52,269 [Worker-13: Creating project "server"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /server/src/test/resources
+2021-02-12 17:27:53,254 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-12 17:27:53,265 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:27:53,266 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-12 17:27:53,267 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:28:07,274 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-12 17:28:07,276 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:28:07,277 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-12 17:28:07,278 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:28:19,946 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-12 17:28:19,948 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:28:19,949 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-12 17:28:19,950 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:28:33,951 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-12 17:28:33,953 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:28:33,954 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-12 17:28:33,955 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:28:34,962 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-12 17:28:34,963 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:28:34,965 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-12 17:28:34,966 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:28:50,614 [Worker-19: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-12 17:28:50,616 [Worker-19: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:28:50,617 [Worker-19: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-12 17:28:50,618 [Worker-19: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:29:07,307 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-12 17:29:07,308 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:29:07,310 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-12 17:29:07,311 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:31:14,242 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-12 17:31:14,243 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:31:14,245 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-12 17:31:14,246 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:36:09,748 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-12 17:36:09,749 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:36:09,750 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-12 17:36:09,751 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 22:08:53,091 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-12 22:08:53,098 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 22:08:53,099 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-12 22:08:53,100 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:03:09,602 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-02-17 09:34:54,270 [Worker-32: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:34:54,275 [Worker-32: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:34:54,277 [Worker-32: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:34:54,278 [Worker-32: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:36:10,251 [Worker-26: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:36:10,255 [Worker-26: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:36:10,259 [Worker-26: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:36:10,260 [Worker-26: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:38:02,798 [Worker-36: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:38:02,799 [Worker-36: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:38:02,800 [Worker-36: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:38:02,801 [Worker-36: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:40:18,118 [Worker-39: Creating project "client"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: client:client:0.0.1-SNAPSHOT @ S:\dev\java-pallaNetServer\client\pom.xml.
+2021-02-17 09:40:18,274 [Worker-39: Creating project "client"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /client/src/main/java
+2021-02-17 09:40:18,275 [Worker-39: Creating project "client"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /client/src/main/resources
+2021-02-17 09:40:18,275 [Worker-39: Creating project "client"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /client/src/test/java
+2021-02-17 09:40:18,275 [Worker-39: Creating project "client"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /client/src/test/resources
+2021-02-17 09:40:18,462 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:40:18,463 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:40:18,464 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:40:18,465 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:40:49,769 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:40:49,770 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:40:49,771 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:40:49,772 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:41:02,161 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:41:02,162 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:41:02,163 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:41:02,164 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:41:11,780 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:41:11,781 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:41:11,782 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:41:11,783 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:41:39,541 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:41:39,543 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:41:39,544 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:41:39,546 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:41:49,618 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:41:49,619 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:41:49,620 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:41:49,621 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:51:03,751 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:51:03,752 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:51:03,753 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:51:03,754 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:52:08,609 [Worker-46: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:52:08,610 [Worker-46: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:52:08,610 [Worker-46: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:52:08,611 [Worker-46: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:52:13,220 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:52:13,221 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:52:13,222 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:52:13,223 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:52:20,194 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:52:20,195 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 09:52:20,196 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 09:52:20,197 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 10:24:03,001 [Worker-55: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 10:24:03,003 [Worker-55: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 10:24:03,003 [Worker-55: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 10:24:03,004 [Worker-55: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 10:24:37,770 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 10:24:37,771 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 10:24:37,772 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 10:24:37,773 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 10:24:52,238 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 10:24:52,240 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 10:24:52,241 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 10:24:52,242 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 10:25:59,898 [Worker-54: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 10:25:59,899 [Worker-54: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 10:25:59,900 [Worker-54: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 10:25:59,901 [Worker-54: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 10:29:07,676 [Worker-49: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 10:29:07,678 [Worker-49: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 10:29:07,679 [Worker-49: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 10:29:07,679 [Worker-49: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 10:29:22,423 [Worker-55: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 10:29:22,424 [Worker-55: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 10:29:22,425 [Worker-55: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 10:29:22,426 [Worker-55: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 10:35:19,303 [Worker-59: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 10:35:19,305 [Worker-59: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 10:35:19,306 [Worker-59: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 10:35:19,306 [Worker-59: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 10:35:57,154 [Worker-59: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 10:35:57,155 [Worker-59: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 10:35:57,156 [Worker-59: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 10:35:57,157 [Worker-59: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 12:57:09,736 [Worker-88: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 12:57:09,738 [Worker-88: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 12:57:09,738 [Worker-88: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 12:57:09,739 [Worker-88: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 13:01:10,385 [Worker-87: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 13:01:10,386 [Worker-87: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 13:01:10,387 [Worker-87: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 13:01:10,388 [Worker-87: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 13:01:14,542 [Worker-85: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 13:01:14,543 [Worker-85: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 13:01:14,544 [Worker-85: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 13:01:14,545 [Worker-85: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 13:01:55,588 [Worker-88: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 13:01:55,589 [Worker-88: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 13:01:55,590 [Worker-88: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 13:01:55,591 [Worker-88: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 13:02:56,095 [Worker-88: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 13:02:56,097 [Worker-88: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 13:02:56,098 [Worker-88: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 13:02:56,099 [Worker-88: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 13:03:31,552 [Worker-99: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 13:03:31,553 [Worker-99: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 13:03:31,554 [Worker-99: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 13:03:31,555 [Worker-99: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 13:04:30,024 [Worker-98: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 13:04:30,025 [Worker-98: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 13:04:30,026 [Worker-98: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 13:04:30,027 [Worker-98: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 13:06:18,413 [Worker-101: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 13:06:18,414 [Worker-101: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 13:06:18,416 [Worker-101: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 13:06:18,417 [Worker-101: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 13:06:26,274 [Worker-101: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 13:06:26,275 [Worker-101: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 13:06:26,276 [Worker-101: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 13:06:26,277 [Worker-101: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 13:08:42,586 [Worker-97: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 13:08:42,587 [Worker-97: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 13:08:42,587 [Worker-97: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 13:08:42,588 [Worker-97: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 13:12:10,006 [Worker-85: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 13:12:10,007 [Worker-85: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 13:12:10,008 [Worker-85: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 13:12:10,009 [Worker-85: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 13:14:09,041 [Worker-108: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 13:14:09,042 [Worker-108: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 13:14:09,042 [Worker-108: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 13:14:09,043 [Worker-108: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 20:29:36,339 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 20:29:36,379 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 20:29:36,381 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 20:29:36,382 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 20:30:45,067 [Worker-16: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-17 20:39:39,617 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 20:39:39,623 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 20:39:39,624 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 20:39:39,625 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 20:39:39,655 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 20:39:39,656 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 20:39:39,657 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 20:39:39,659 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 20:42:05,646 [Worker-0: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 20:42:05,647 [Worker-0: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 20:42:05,648 [Worker-0: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 20:42:05,650 [Worker-0: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 20:57:29,488 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 20:57:29,489 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 20:57:29,490 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 20:57:29,490 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 20:58:22,949 [Worker-27: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 20:58:22,950 [Worker-27: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 20:58:22,951 [Worker-27: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 20:58:22,952 [Worker-27: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 20:59:23,607 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 20:59:23,608 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 20:59:23,609 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 20:59:23,610 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 21:00:25,692 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 21:00:25,694 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 21:00:25,696 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 21:00:25,697 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 21:02:17,889 [Worker-25: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 21:02:17,891 [Worker-25: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 21:02:17,892 [Worker-25: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 21:02:17,893 [Worker-25: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 21:02:47,954 [Worker-23: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 21:02:47,955 [Worker-23: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 21:02:47,956 [Worker-23: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 21:02:47,957 [Worker-23: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 21:03:28,417 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 21:03:28,418 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-17 21:03:28,419 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 21:03:28,420 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 10:37:31,303 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-02-18 10:50:07,538 [Worker-20: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:50:07,542 [Worker-20: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 10:50:07,544 [Worker-20: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:50:07,545 [Worker-20: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 10:50:15,253 [Worker-12: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:50:15,255 [Worker-12: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 10:50:15,257 [Worker-12: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:50:15,258 [Worker-12: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 10:51:20,515 [Worker-25: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:51:20,518 [Worker-25: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 10:51:20,519 [Worker-25: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:51:20,520 [Worker-25: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 10:53:21,656 [Worker-12: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:53:21,657 [Worker-12: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 10:53:21,659 [Worker-12: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:53:21,660 [Worker-12: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 10:56:16,623 [Worker-26: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:56:16,625 [Worker-26: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 10:56:16,626 [Worker-26: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:56:16,627 [Worker-26: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 11:01:16,467 [Worker-23: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 11:01:16,468 [Worker-23: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 11:01:16,470 [Worker-23: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 11:01:16,471 [Worker-23: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 11:03:00,508 [Worker-26: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 11:03:00,509 [Worker-26: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 11:03:00,510 [Worker-26: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 11:03:00,511 [Worker-26: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 11:05:52,540 [Worker-20: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 11:05:52,541 [Worker-20: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 11:05:52,544 [Worker-20: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 11:05:52,545 [Worker-20: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 11:06:58,340 [Worker-24: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 11:06:58,341 [Worker-24: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 11:06:58,343 [Worker-24: Launching MainProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 11:06:58,344 [Worker-24: Launching MainProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 18:17:46,302 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-18 18:27:50,638 [Worker-10: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 18:27:50,643 [Worker-10: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 18:27:50,645 [Worker-10: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 18:27:50,646 [Worker-10: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 18:34:10,932 [Worker-11: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 18:34:10,935 [Worker-11: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 18:34:10,936 [Worker-11: Launching MainProgram (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 18:34:10,937 [Worker-11: Launching MainProgram (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 18:40:18,560 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 18:40:18,561 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 18:40:18,562 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 18:40:18,563 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
